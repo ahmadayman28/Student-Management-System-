@@ -1,0 +1,16 @@
+# ninja log v5
+25	17111	7456982222736053	CMakeFiles/student_managment_system.dir/main.cpp.obj	4bdd2947d3f442e5
+30893	37831	7455594084107525	CMakeFiles/student_managment_system.dir/SummerCourse.cpp.obj	3bf3426e305abf8b
+15667	21995	7456403191633423	CMakeFiles/student_managment_system.dir/Rational.cpp.obj	f04fc6d86767a214
+3	3984	7458097139742717	build.ninja	f1312d1f796cd981
+14432	22468	7456971056895336	CMakeFiles/student_managment_system.dir/Student.cpp.obj	7558dbbd75f4b035
+17112	19508	7456982245964128	student_managment_system.exe	c1f53ba99cc96f1c
+33788	40810	7456384724714429	CMakeFiles/student_managment_system.dir/Course.cpp.obj	93f8755cdd6d7f74
+26724	33787	7456384655210426	CMakeFiles/student_managment_system.dir/NormalCourse.cpp.obj	2c192f09b6f2e754
+22469	29153	7456971123925335	CMakeFiles/student_managment_system.dir/GeneralProgramStudent.cpp.obj	1291635cc13ea3ea
+29154	36267	7456971195075323	CMakeFiles/student_managment_system.dir/SpecialProgramStudent.cpp.obj	7de0e16182d2877
+68006	75262	7455594458289551	CMakeFiles/student_managment_system.dir/CourseList.cpp.obj	e65343003083272b
+12	11722	7458101484724260	CMakeFiles/student_managment_system.dir/main.cpp.obj	4bdd2947d3f442e5
+11733	14942	7458101517256110	student_managment_system.exe	c1f53ba99cc96f1c
+12	14509	7458102755754547	CMakeFiles/student_managment_system.dir/main.cpp.obj	4bdd2947d3f442e5
+14511	16635	7458102777928668	student_managment_system.exe	c1f53ba99cc96f1c
