@@ -62,6 +62,3 @@ Possible future enhancements for the project include:
 - Adding support for more types of courses (e.g., online courses, lab courses).
 - Implementing a GUI for the registration process.
 - Integrating the system with a database to store and retrieve student and course data.
-
-## License
-This project is licensed under the MIT License.
